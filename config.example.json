@@ -1,0 +1,15 @@
+{
+  "sources": {
+    "h5": {
+      "url": "https://your-api.com/v3/api-docs",
+      "baseUrl": "https://your-api.com/api",
+      "token": "",
+      "headers": {
+        "Accept-Language": "zh-CN"
+      }
+    }
+  },
+  "defaultHeaders": {
+    "Content-Type": "application/json"
+  }
+}
